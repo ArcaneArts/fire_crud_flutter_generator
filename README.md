@@ -1,0 +1,1 @@
+# fire_crud_flutter_generator
